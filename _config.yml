@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "Rang Meng"
   pronouns         : # example: "she/her"  
-  bio              : "红雨随心翻作浪，青山着意化为桥"
+  bio              : ""
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "r_meng@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AJsN-F7_wOhSb-TGnAgWc_4j2AVGR4NdZQbZeJuZpjACAmVHC6AyJnZIeuP3cC19OTJ_-hGJFt_QILQndY3yA-X-IoA1evKyYRr8E69DkTNjaS9NUwaYirI&user=pw6VYKkAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "https://orcid.org/0000-0001-6027-6832"
+  semantic         : "https://www.semanticscholar.org/author/Rang-Meng/80264697"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mengrang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -75,7 +75,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            :"https://www.zhihu.com/people/mengrang"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
